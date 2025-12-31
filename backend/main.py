@@ -26,7 +26,7 @@ async def lifespan(app: FastAPI):
 
 app = FastAPI(
     title="OSINT Tool API",
-    description="Professional Open Source Intelligence Platform - Educational & Legal Use Only",
+    description="Professional Open Source Intelligence Platform - Educational & Legal Use Only | Developed by Jayvik Labs",
     version="1.0.0",
     lifespan=lifespan
 )

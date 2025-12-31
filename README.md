@@ -1,5 +1,7 @@
 # OSINT Tool - Professional Open Source Intelligence Platform
 
+**Developed by Jayvik Labs**
+
 ## ⚠️ Legal Disclaimer
 
 **This tool is designed for educational, investigative, and defensive security purposes ONLY.**

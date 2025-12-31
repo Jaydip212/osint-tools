@@ -36,7 +36,7 @@ export default function Dashboard() {
             <h1 className="text-2xl font-bold text-cyber-green cyber-glow">
               OSINT TOOL
             </h1>
-            <p className="text-xs text-cyber-cyan">Professional Intelligence Platform</p>
+            <p className="text-xs text-cyber-cyan">Professional Intelligence Platform | Jayvik Labs</p>
           </div>
           <div className="flex items-center gap-4">
             {user && (

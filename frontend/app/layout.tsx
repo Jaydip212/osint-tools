@@ -3,8 +3,8 @@ import './globals.css'
 import { Toaster } from 'react-hot-toast'
 
 export const metadata: Metadata = {
-  title: 'OSINT Tool - Professional Intelligence Platform',
-  description: 'Educational Open Source Intelligence Tool - Legal Use Only',
+  title: 'OSINT Tool - Professional Intelligence Platform | Jayvik Labs',
+  description: 'Educational Open Source Intelligence Tool - Legal Use Only | Developed by Jayvik Labs',
 }
 
 export default function RootLayout({
